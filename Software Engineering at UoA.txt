@@ -1,0 +1,48 @@
+Digital systems and binary coding; binary numbers; Boolean algebra and computer logic; combinational logic circuits; 
+sequential logic circuits; hardware description language; digital design flow; register transfer level descriptions 
+and design; data paths and control units; from circuits to microprocessors; basic computer organisation; 
+introduction to modern microprocessors; timers and interfacing; C and assembly language for microprocessors; 
+designing digital systems using microprocessors.
+Introduction to the analytical and empirical behaviour of basic algorithms and data structures.
+An introduction to Object Oriented software development. Programming with classes; objects and polymorphism. 
+Evolutionary and test-driven development. Analysis and design. Modelling with UML. Design patterns. 
+Design for reuse, for testing, and for ease of change.
+Project work. Skills and tools in systematic development of software, including testing, version control, build systems, 
+working with others.
+Sets. Formal languages, operations on languages. Deterministic and nondeterministic automata, designing automata, determinisation. 
+Regular expressions. Logic. Induction. Recursion. Program correctness. Computability. Counting. Elements of graph algorithms.
+Software verification and validation. Static and dynamic QA activities as part of the software lifecycle. Unit, integration, system, 
+and usability testing. Use of visual notations, automation, and tools to support development activities. Metrics to quantify strength 
+of testing and complexity of programs.
+First and second order ordinary differential equations and solutions. Laplace transforms. Taylor series and series in general. 
+Multivariable and vector calculus including divergence, gradient and curl. Further linear algebra. Eigenvalues and eigenvectors. 
+Fourier series. Application of the techniques through appropriate modelling examples. Introductory data analysis and statistics.
+A system-wide view of the role of the professional engineer in society and business. The skills of advocacy, and individual and 
+group-based communication are put into practice. Scenarios representative of real-world issues are addressed through team-based 
+projects and problem solving. The professional issues introduced in ENGGEN 115 (health and safety, ethics, sustainability, cultural 
+diversity, communication, leadership, and teamwork) are continued and developed.
+Introduction to theory and practice of managing projects, innovation, product development and service delivery. Students work in 
+interdisciplinary teams to complete a project based on a complex real-world systems scenario. Project management and innovation topics 
+are integrated with design studies covered in previous courses, and extended to wider business issues of risk and opportunities, 
+entrepreneurship, financial management, and regulatory issues.
+Human behaviour and humans’ expectations of computers. Computer interfaces and the interaction between humans and computers. The significance 
+of the user interface, interface design and user centred design process in software development. Interface usability evaluation methodologies 
+and practice. Includes an evaluation project, group design project, and implementation using current techniques and tools.
+Relational model, Relational algebra, Relational calculus, SQL, SQL and programming languages, Entity-Relationship model, Normalisation, Query 
+processing, Query optimisation, Distributed databases, Transaction management, Concurrency control, Database recovery.
+Working in project teams to develop software to meet changing requirements for a large application. Project Planning. Requirements gathering. 
+Estimating, costing and tracking. Acceptance and unit testing. Evolutionary design and development. Collaborative development tools.
+Taxonomy of software architecture patterns, including client/server and multi-tier. Understanding quality attributes. Methodologies for design 
+of software architectures. Technologies for architecture level development, including middleware.
+History of operating systems. Multi-user systems. Scheduling. Concurrent processes, threads and synchronisation. Memory allocation and virtual memory. 
+Managing files, disks and other peripherals. Security, protection and archiving. Engineering distributed systems; location, migration and replication 
+transparency. Real-time programming and embedded systems.
+Students are required to submit a report on project work carried out on a Software Engineering topic assigned by the Head of Department.
+An introduction to the commercial drivers and business practices which prepare students for successful roles in the commercial, government, and non-profit 
+sectors after graduation. Students are presented with a systems thinking approach to managing large, complex, multidisciplinary challenges. Professional 
+issues (such as health and safety, sustainability, resilience, ethics, leadership, and cultural diversity) from previous courses are expanded.
+
+
+
+
+
